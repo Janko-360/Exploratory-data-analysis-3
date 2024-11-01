@@ -4,7 +4,7 @@ Understanding the second-hand car market in Namibia
 <br>
   
 ### Data source 
-The data was scraped from a local car website called [namcars.net](namcars.net)  
+The data was scraped from a local car website called [namcars.net](https://namcars.net)  
   
 ### Final grpahs can be seen on [Tableau](https://public.tableau.com/app/profile/janko.bauer/viz/Second-handmarket_17302084534200/Financialdetails)  
 <br>  
@@ -22,4 +22,7 @@ The data was scraped from a local car website called [namcars.net](namcars.net)
   
 ## Sceenshots of the dashboards
 ![Image](/Screenshots/Tableau1.png)  
+<br>  
+<br>  
+<br>  
 ![Image](Screenshots/Tableau2.png)
