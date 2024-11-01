@@ -5,7 +5,7 @@ Understanding the second-hand car market in Namibia
 The data was scraped from a local car website called [namcars.net](namcars.net)  
   
 ### Final grpahs can be seen on [Tableau](https://public.tableau.com/app/profile/janko.bauer/viz/Second-handmarket_17302084534200/Financialdetails)  
-  
+<br>
 ## Process
 1. Scraping all data
     - Single script that returns data for a few car types and all cars collectivley. 
@@ -16,3 +16,5 @@ The data was scraped from a local car website called [namcars.net](namcars.net)
 3. Presenting the most interesting info on Tableau  
 
 ## Sceenshots of the dashboards
+![Image](/Tableau/Tableau 1.png)
+![Image](/Tableau/Tableau 2.png)
