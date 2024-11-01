@@ -21,5 +21,5 @@ The data was scraped from a local car website called [namcars.net](namcars.net)
 <br> 
   
 ## Sceenshots of the dashboards
-![Image](/Tableau screenshots/Tableau 1.png)  
-![Image](/Tableau screenshots/Tableau 2.png)
+![Image](/Screenshots/Tableau1.png)  
+![Image](Screenshots/Tableau2.png)
